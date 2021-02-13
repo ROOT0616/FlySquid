@@ -12,6 +12,7 @@ public class FlySquid extends JavaPlugin {
 		// 他のクラスから登録する場合
 		// コンストラクタで登録する場合
 		new RideAnimal(this);
+		new RideAnimal(this);
 	}
 
 	@Override
